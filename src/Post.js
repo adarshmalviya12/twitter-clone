@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from 'react'
 import "./Post.css"
 import VerifiedIcon from '@mui/icons-material/Verified';
 import { Avatar } from '@mui/material'
